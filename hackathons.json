@@ -774,5 +774,57 @@
         "notes": "Strona 9. Bydgoskiego Hackathonu podaje datę 27.03.2026, miejsce Młyny Rothera i informację o organizatorze."
       }
     ]
+  },
+  {
+    "id": "hack4slaskie-kompetencje-2026",
+    "nazwa": "Hack4Śląskie – Kompetencje na lata 2026",
+    "opis": "Trzeci hackathon z cyklu \"Od idei do zmiany. Prototypujemy dla Śląska\" poświęcony budowaniu kompetencji uczenia się przez całe życie. Uczestnicy w interdyscyplinarnych zespołach wypracują rozwiązania dla mieszkańców regionu, wspierani przez ekspertów i mentorki programu.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-04-15",
+    "data_odbycia_do": "2026-04-16",
+    "miejsce": "Łaźnia Łańcuszkowa, Muzeum Górnictwa Węglowego w Zabrzu, ul. Wolności 408",
+    "organizator": "Regionalny Ośrodek Doskonalenia Nauczycieli \"WOM\" w Katowicach (projekt \"Prototypujemy dla Śląska\")",
+    "link": "https://kpo.metis.pl/2025/08/29/hackathon-hack4slaskie-kompetencje-na-lata/",
+    "kategoria": "Edukacja",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://kpo.metis.pl/2025/08/29/hackathon-hack4slaskie-kompetencje-na-lata/",
+        "notes": "Zaproszenie podaje termin 15-16.04.2026, lokalizację w Łaźni Łańcuszkowej Muzeum Górnictwa Węglowego w Zabrzu oraz grupy docelowe."
+      },
+      {
+        "url": "https://kpo.metis.pl/o-projekcie/",
+        "notes": "Strona projektu potwierdza, że hackathon Hack4Śląskie – Kompetencje na lata odbędzie się 15-16 kwietnia 2026 w ramach programu \"Od idei do zmiany. Prototypujemy dla Śląska\"."
+      }
+    ]
+  },
+  {
+    "id": "grawitacja-8bit-gamejam-2026",
+    "nazwa": "GRAWITACJA 2026 – 8bit GameJam",
+    "opis": "Ósma edycja GRAWITACJI to 36-godzinny hackathon dla twórców gier na platformy 8-bitowe. Zespoły programistów, grafików i muzyków spotkają się w hubraum Kraków, aby w narzuconym temacie stworzyć nowe produkcje retro i zaprezentować je społeczności sceny.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-04-17",
+    "data_odbycia_do": "2026-04-19",
+    "miejsce": "hubraum Kraków, ul. Przemysłowa 12, Kraków",
+    "organizator": "Organizatorzy GRAWITACJA 8bit GameJam (bocianu, marekp, kris3d, koala)",
+    "link": "https://grawitacja.eu/",
+    "kategoria": "GameDev",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://www.atari.org.pl/informacje/grawitacja-gamejam:-8.-edycja/2585",
+        "notes": "Ogłoszenie AtariArea potwierdza termin 17-19.04.2026, miejsce hubraum Kraków oraz charakter 8-bitowego hackathonu."
+      },
+      {
+        "url": "https://grawitacja.eu/",
+        "notes": "Strona wydarzenia opisuje zasady GRAWITACJA 2026, liczbę miejsc, cele hackathonu i odliczanie do startu."
+      },
+      {
+        "url": "https://grawitacja.eu/kontakt",
+        "notes": "Zakładka kontakt wskazuje skład organizatorów (bocianu, marekp, kris3d, koala) odpowiedzialnych za GRAWITACJĘ 8bit GameJam."
+      }
+    ]
   }
 ]
