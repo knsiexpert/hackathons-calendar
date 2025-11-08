@@ -475,21 +475,6 @@
     "dodatkowe_info": "Wydarzenie odbywa się co roku. Format: dzień 1 online, dzień 2 stacjonarnie na PGE Narodowym. Konkretne daty 2026 nie zostały jeszcze oficjalnie ogłoszone - strona podaje tylko 'październik 2026'."
   },
   {
-    "id": "nasa-space-apps-polska-2026",
-    "nazwa": "NASA Space Apps Challenge 2026 - Polska",
-    "opis": "Globalna edycja NASA Space Apps Challenge. Lokalne wydarzenia mogą być planowane w polskich miastach. Szczegóły edycji 2026 nie zostały jeszcze oficjalnie ogłoszone przez NASA.",
-    "data_rejestracji_od": null,
-    "data_rejestracji_do": null,
-    "data_odbycia": "2026-10-01",
-    "data_odbycia_do": "2026-10-02",
-    "link": "https://www.spaceappschallenge.org/",
-    "kategoria": "Kosmonautyka",
-    "status": "niepotwierdzony",
-    "organizator": "NASA + lokalni organizatorzy",
-    "zasieg": "globalny",
-    "uwaga": "Informacje o edycji 2026 nie zostały jeszcze opublikowane. Strona NASA Space Apps Challenge nie zawiera jeszcze szczegółów dotyczących dat i rejestracji na rok 2026. Tradycyjnie wydarzenie odbywa się na początku października."
-  },
-  {
     "id": "ethwarsaw-2025",
     "nazwa": "ETHWarsaw 2025",
     "opis": "Czwarta edycja największego wydarzenia Web3 w Polsce. Konferencja i hackathon dla developerów, badaczy i founderów blockchain. 4 dni budowania, pogłębionych dyskusji i współpracy hands-on. Główne wydarzenie Warsaw Blockchain Week.",
