@@ -1485,5 +1485,49 @@
         "description": "Opis hackathonu potwierdza terminy 5–31 stycznia 2026, tryb OnlineEventAttendanceMode oraz nacisk na globalne wyzwania technologiczne."
       }
     ]
+  },
+  {
+    "id": "hacknation-2025",
+    "nazwa": "HackNation 2025 – Ogólnopolski Hackathon wdrożeniowy",
+    "opis": "HackNation 2025 to pierwszy ogólnopolski hackathon wdrożeniowy dla administracji publicznej. Ponad tysiąc programistów, analityków, projektantów i strategów w 24 godziny pracuje nad rozwiązaniami zgłoszonymi przez ministerstwa, spółki Skarbu Państwa i instytucje publiczne – od cyfrowego bezpieczeństwa strażaków, przez wykrywanie anomalii przemytniczych, po innowacje dla CPK. Wydarzeniu towarzyszy konferencja o praktycznym wykorzystaniu Big Data i AI w administracji publicznej.",
+    "data_rejestracji_od": "2025-10-24",
+    "data_rejestracji_do": "2025-11-30",
+    "data_odbycia": "2025-12-06",
+    "data_odbycia_do": "2025-12-07",
+    "miejsce": "Bydgoskie Centrum Targowo-Wystawiennicze, ul. Gdańska 187, 85-674 Bydgoszcz",
+    "link": "https://hacknation.pl/",
+    "link_rejestracji": "https://eventory.cc/event/hacknation-2025/tickets",
+    "kategoria": "Innowacje/Administracja publiczna",
+    "status": "nadchodzący",
+    "organizator": "Ministerstwo Cyfryzacji – Departament GovTech Polska, przy współpracy Miasta Bydgoszczy",
+    "pula_nagrod": "482 000 PLN",
+    "wielkosc_zespolu": "2-6 osób",
+    "czas_trwania": "24 godziny",
+    "forma": "stacjonarna",
+    "udzial": "bezpłatny",
+    "transport": "Bezpłatny transport autokarowy z 15 miast w Polsce dla zarejestrowanych uczestników",
+    "zadania_przykladowe": [
+      "Cyfrowy nieśmiertelnik – poprawa bezpieczeństwa strażaków w trudnych warunkach terenowych",
+      "Chmura pod kontrolą – algorytm optymalizujący strukturę ruchu powietrznego (CPK)",
+      "Scenariusze jutra – prognozowanie zmian geopolitycznych i społecznych (MSZ)",
+      "Odnalezione zguby – system ułatwiający odzyskiwanie utraconych przedmiotów z wykorzystaniem otwartych danych (MC)",
+      "Zobacz to, czego nie widać – analiza obrazu i danych dla przemysłu wydobywczego (JSW)",
+      "Wyszukiwarka anomalii – wykrywanie nietypowych schematów w danych granicznych (KAS)"
+    ],
+    "grupa_docelowa": [
+      "Studenci i doktoranci kierunków technicznych i biznesowych",
+      "Młodzi profesjonaliści IT, data science, AI i cybersecurity",
+      "Zespoły startupowe zainteresowane współpracą z administracją publiczną"
+    ],
+    "program_skrot": {
+      "dzien_1": "Rejestracja, ceremonia otwarcia, publikacja treści zadań, start 24-godzinnego kodowania, konferencja dla administracji publicznej",
+      "dzien_2": "Zakończenie kodowania, ocena projektów, pitching przed jury, ogłoszenie zwycięzców i ceremonia zamknięcia"
+    },
+    "kontakt": {
+      "email_organizacyjny": "kontakt@hacknation.pl",
+      "email_rejestracja": "rejestracja@hacknation.pl",
+      "email_transport": "transport@hacknation.pl",
+      "email_media": "promocja@hacknation.pl"
+    }
   }
 ]
