@@ -1355,5 +1355,179 @@
         "notes": "Opis programu potwierdza zdalny przebieg, globalną rekrutację nastolatków 13-19 lat i harmonogram od stycznia 2026."
       }
     ]
+  },
+  {
+    "id": "nf-core-hackathon-march-2026-online",
+    "nazwa": "nf-core Hackathon – March 2026",
+    "opis": "Trzydniowy globalny hackathon społeczności nf-core odbywający się w pełni zdalnie, skupiony na rozwijaniu bioinformatycznych pipeline'ów i narzędzi Nextflow z udziałem uczestników na całym świecie.",
+    "data_odbycia": "2026-03-11",
+    "data_odbycia_do": "2026-03-13",
+    "miejsce": "Online",
+    "organizator": "nf-core community",
+    "link": "https://nf-co.re/events/2026/hackathon-march-2026",
+    "kategoria": "Bioinformatics",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://nf-co.re/events/2026/hackathon-march-2026",
+        "notes": "Sekcja wydarzenia wskazuje daty 11–13.03.2026, w pełni wirtualną formułę \"Join us online\" oraz globalny charakter (uczestnicy z całego świata)."
+      }
+    ]
+  },
+  {
+    "id": "international-ai-ml-hackathon-2026-online",
+    "nazwa": "International Hackathon on AI & ML 2026",
+    "opis": "Międzynarodowy hackathon Mastering Up w całości online, który łączy badaczy, studentów i specjalistów nad projektami sztucznej inteligencji i uczenia maszynowego podczas trzydniowego programu mentorsko-warsztatowego.",
+    "data_odbycia": "2026-09-05",
+    "data_odbycia_do": "2026-09-07",
+    "miejsce": "Online",
+    "organizator": "Mastering Up",
+    "link": "https://masteringup.com/event/international-hackathon-on-artificial-intelligence-and-machine-learning/",
+    "kategoria": "AI/ML",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://masteringup.com/event/international-hackathon-on-artificial-intelligence-and-machine-learning/",
+        "notes": "Opis wydarzenia podaje terminy 5–7.09.2026, tryb Online oraz globalny charakter hackathonu AI & ML."
+      }
+    ]
+  },
+  {
+    "id": "international-hackathon-education-technology-2026-online",
+    "nazwa": "International Hackathon on Education Technology and Digital Learning 2026",
+    "opis": "Trzydniowy, międzynarodowy hackathon online organizowany przez Mastering Up, koncentrujący się na AI, AR/VR oraz analityce w edukacji. Globalne zespoły 2-4 osób projektują prototypy i pitchują rozwiązania poprawiające dostępność, personalizację i zaangażowanie w uczeniu.",
+    "data_odbycia": "2026-09-26",
+    "data_odbycia_do": "2026-09-28",
+    "miejsce": "Online",
+    "organizator": "Mastering Up",
+    "link": "https://masteringup.com/event/international-hackathon-on-education-technology-and-digital-learning/",
+    "kategoria": "Edukacja",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://masteringup.com/event/international-hackathon-on-education-technology-and-digital-learning/",
+        "notes": "Landing Mastering Up podaje daty 26-28 września 2026, formułę w pełni online i globalne zasady udziału w hackathonie EdTech."
+      }
+    ]
+  },
+  {
+    "id": "mlh-hacks-for-hackers-online-2026",
+    "nazwa": "Hacks for Hackers 2026 (MLH)",
+    "opis": "Noworoczny, w pełni wirtualny hackathon Major League Hacking otwierający sezon Global Hack Week. Uczestnicy z całego świata budują projekty wzmacniające społeczność hackerów i realizują tematyczne wyzwania oraz sesje na żywo.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-01-02",
+    "data_odbycia_do": "2026-01-04",
+    "miejsce": "Online",
+    "link": "https://events.mlh.io/events/13143",
+    "kategoria": "Programowanie",
+    "status": "planowany",
+    "organizator": "Major League Hacking (MLH)",
+    "sources": [
+      {
+        "url": "https://events.mlh.io/events/13143",
+        "notes": "Strona wydarzenia MLH z terminem 2-4 stycznia 2026, formatem online (VirtualLocation) i opisem hackathonu Hacks for Hackers."
+      }
+    ]
+  },
+  {
+    "id": "mlh-global-hack-week-beginners-2026-online",
+    "nazwa": "Global Hack Week: Beginners 2026",
+    "opis": "Tygodniowa edycja Global Hack Week dla początkujących organizowana online przez MLH. Program obejmuje wyzwania projektowe, warsztaty i sesje społecznościowe wspierające pierwsze kroki w tworzeniu rozwiązań technologicznych.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-01-09",
+    "data_odbycia_do": "2026-01-15",
+    "miejsce": "Online",
+    "link": "https://events.mlh.io/events/13277",
+    "kategoria": "Programowanie",
+    "status": "planowany",
+    "organizator": "Major League Hacking (MLH)",
+    "sources": [
+      {
+        "url": "https://events.mlh.io/events/13277",
+        "notes": "Strona Global Hack Week: Beginners z datami 9-15 stycznia 2026, informacją o lokalizacji VirtualLocation i opisem tygodniowych wyzwań online."
+      }
+    ]
+  },
+  {
+    "id": "treeline-hacks-2026-online",
+    "nazwa": "TreeLine Hacks 2026",
+    "opis": "36-godzinny, w pełni zdalny hackathon społeczności Treeline Hacks. Zespoły na Discordzie budują prototypy dowolnych pomysłów, z warsztatami i mentoringiem wspierającymi globalne rozwiązywanie realnych problemów.",
+    "data_odbycia": "2026-03-06",
+    "data_odbycia_do": "2026-03-08",
+    "miejsce": "Online",
+    "organizator": "Treeline Hacks",
+    "link": "https://treelinev1.devpost.com/",
+    "kategoria": "General",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://treelinev1.devpost.com/",
+        "description": "Strona Devpost podaje harmonogram 6–8 marca 2026 oraz tryb OnlineEventAttendanceMode z pracą w globalnej społeczności Discord."
+      }
+    ]
+  },
+  {
+    "id": "arctic-league-of-code-2026-online",
+    "nazwa": "Arctic League of Code 2026",
+    "opis": "Miesięczny program online, w którym globalna społeczność developerów buduje skalowalne rozwiązania w domenach odpowiadających na wyzwania technologiczne i społeczne. Hackathon zapewnia mentoring, zasoby i w pełni zdalny format.",
+    "data_odbycia": "2026-01-05",
+    "data_odbycia_do": "2026-01-31",
+    "miejsce": "Online",
+    "organizator": "Arctic League of Code",
+    "link": "https://arctic-league.devpost.com/",
+    "kategoria": "Software Engineering",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://arctic-league.devpost.com/",
+        "description": "Opis hackathonu potwierdza terminy 5–31 stycznia 2026, tryb OnlineEventAttendanceMode oraz nacisk na globalne wyzwania technologiczne."
+      }
+    ]
+  },
+  {
+    "id": "hacknation-2025",
+    "nazwa": "HackNation 2025 – Ogólnopolski Hackathon wdrożeniowy",
+    "opis": "HackNation 2025 to pierwszy ogólnopolski hackathon wdrożeniowy dla administracji publicznej. Ponad tysiąc programistów, analityków, projektantów i strategów w 24 godziny pracuje nad rozwiązaniami zgłoszonymi przez ministerstwa, spółki Skarbu Państwa i instytucje publiczne – od cyfrowego bezpieczeństwa strażaków, przez wykrywanie anomalii przemytniczych, po innowacje dla CPK. Wydarzeniu towarzyszy konferencja o praktycznym wykorzystaniu Big Data i AI w administracji publicznej.",
+    "data_rejestracji_od": "2025-10-24",
+    "data_rejestracji_do": "2025-11-30",
+    "data_odbycia": "2025-12-06",
+    "data_odbycia_do": "2025-12-07",
+    "miejsce": "Bydgoskie Centrum Targowo-Wystawiennicze, ul. Gdańska 187, 85-674 Bydgoszcz",
+    "link": "https://hacknation.pl/",
+    "link_rejestracji": "https://eventory.cc/event/hacknation-2025/tickets",
+    "kategoria": "Innowacje/Administracja publiczna",
+    "status": "nadchodzący",
+    "organizator": "Ministerstwo Cyfryzacji – Departament GovTech Polska, przy współpracy Miasta Bydgoszczy",
+    "pula_nagrod": "482 000 PLN",
+    "wielkosc_zespolu": "2-6 osób",
+    "czas_trwania": "24 godziny",
+    "forma": "stacjonarna",
+    "udzial": "bezpłatny",
+    "transport": "Bezpłatny transport autokarowy z 15 miast w Polsce dla zarejestrowanych uczestników",
+    "zadania_przykladowe": [
+      "Cyfrowy nieśmiertelnik – poprawa bezpieczeństwa strażaków w trudnych warunkach terenowych",
+      "Chmura pod kontrolą – algorytm optymalizujący strukturę ruchu powietrznego (CPK)",
+      "Scenariusze jutra – prognozowanie zmian geopolitycznych i społecznych (MSZ)",
+      "Odnalezione zguby – system ułatwiający odzyskiwanie utraconych przedmiotów z wykorzystaniem otwartych danych (MC)",
+      "Zobacz to, czego nie widać – analiza obrazu i danych dla przemysłu wydobywczego (JSW)",
+      "Wyszukiwarka anomalii – wykrywanie nietypowych schematów w danych granicznych (KAS)"
+    ],
+    "grupa_docelowa": [
+      "Studenci i doktoranci kierunków technicznych i biznesowych",
+      "Młodzi profesjonaliści IT, data science, AI i cybersecurity",
+      "Zespoły startupowe zainteresowane współpracą z administracją publiczną"
+    ],
+    "program_skrot": {
+      "dzien_1": "Rejestracja, ceremonia otwarcia, publikacja treści zadań, start 24-godzinnego kodowania, konferencja dla administracji publicznej",
+      "dzien_2": "Zakończenie kodowania, ocena projektów, pitching przed jury, ogłoszenie zwycięzców i ceremonia zamknięcia"
+    },
+    "kontakt": {
+      "email_organizacyjny": "kontakt@hacknation.pl",
+      "email_rejestracja": "rejestracja@hacknation.pl",
+      "email_transport": "transport@hacknation.pl",
+      "email_media": "promocja@hacknation.pl"
+    }
   }
 ]
