@@ -1,5 +1,61 @@
 [
   {
+    "id": "european-critical-infrastructure-hackathon-2026",
+    "nazwa": "European Critical Infrastructure Hackathon 2026",
+    "opis": "Trzydniowy hackathon w Gdańsku skoncentrowany na budowie prototypów wzmacniających europejską suwerenność technologiczną i odporność infrastruktury krytycznej. Wydarzenie gromadzi ok. 200 inżynierów, designerów i badaczy, oferuje 3 ścieżki wyzwań (komunikacja, energia/offshore, space tech), wsparcie 30+ mentorów oraz 4+ warsztaty. Zwieńczeniem jest demo day i ceremonia nagród.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-01-23",
+    "data_odbycia_do": "2026-01-25",
+    "miejsce": "GPN-T (Gdańsk-Pomeranian Science and Technology Park), Gdańsk, Polska",
+    "link": "https://criticalhackathon.com/",
+    "link_rejestracji": "https://docs.google.com/forms/d/e/1FAIpQLSdHg1Ibray21XWHBjMv_lLsJEXMNFsSEAcTIfgd8e2XHPn2Ww/viewform?usp=header",
+    "kategoria": "Infrastruktura krytyczna / Cyberbezpieczeństwo",
+    "status": "nadchodzący",
+    "organizator": "Vidoc (Vidoc Security Lab)",
+    "wspolorganizator": "EDTH",
+    "partnerstwo": "Lovable",
+    "partnerzy": [
+      "Prezydent Miasta Gdańska",
+      "NVIDIA",
+      "Bielik.ai",
+      "ElevenLabs",
+      "Airspace Intelligence",
+      "InvestGDA",
+      "Pomorska Specjalna Strefa Ekonomiczna",
+      "Infoshare",
+      "Starter",
+      "European Defense Tech Hub",
+      "No-Code Poland",
+      "Polish Space Professionals Association"
+    ],
+    "liczba_uczestnikow": 200,
+    "liczba_sciezek": 3,
+    "sciezki_wyzwan": [
+      {
+        "nazwa": "Sovereign Communication & Social Media",
+        "opis": "Bezpieczne komunikatory, federacyjne sieci społecznościowe i narzędzia anty-dezinformacyjne chroniące europejską przestrzeń cyfrową."
+      },
+      {
+        "nazwa": "Energy & Offshore",
+        "opis": "Monitoring, odporność i analityka dla systemów energetycznych oraz infrastruktury offshore wspierające niezależność energetyczną."
+      },
+      {
+        "nazwa": "Space Tech & Orbital Systems",
+        "opis": "Analiza danych satelitarnych i systemy komunikacji dla bezpieczeństwa, niezależności i zarządzania kryzysowego."
+      }
+    ],
+    "liczba_mentorow": "30+",
+    "liczba_warsztatow": "4+",
+    "harmonogram_skrot": {
+      "2026-01-23": "Warm-up day: rejestracja, keynote, warsztaty, networking",
+      "2026-01-24": "Start hackathonu (24h), prezentacja wyzwań, mentoring",
+      "2026-01-25": "Deadline, prezentacje projektów, obrady jury, ogłoszenie wyników"
+    },
+    "hashtag": "#CriticalHack2026",
+    "kontakt": "contact@criticalhackathon.com"
+  },
+  {
     "id": "nasa-space-apps-szczecin-2024",
     "nazwa": "NASA Space Apps Challenge Szczecin 2024",
     "opis": "24-godzinny hackathon w Morskim Centrum Nauki w Szczecinie, lokalna edycja globalnego NASA Space Apps Challenge. 42 uczestników w 10 zespołach pracowało nad 20 wyzwaniami NASA z tematem przewodnim 'The Sun Touches Everything' (Heliophysics Big Year). Wydarzenie było częścią Szczecińskiego Festiwalu Kosmicznego. Organizator: Stowarzyszenie Iskry Nauki.",
